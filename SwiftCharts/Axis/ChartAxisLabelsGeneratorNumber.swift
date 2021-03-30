@@ -7,6 +7,8 @@
 //
 
 import Foundation
+import CoreGraphics
+import UIKit
 
 /// Generates a single formatted number for scalar
 open class ChartAxisLabelsGeneratorNumber: ChartAxisLabelsGeneratorBase {
